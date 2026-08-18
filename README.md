@@ -115,34 +115,3 @@ cv2.rectangle(
 
 When the program detects a face, a green bounding box appears around it in the webcam window.
 
-## 🔮 Possible Improvements
-
-This project can be extended with more advanced computer vision features, such as:
-
-- Face recognition using known identities
-- Multiple face tracking
-- Face counting
-- Age and gender estimation
-- Emotion recognition
-- Facial landmark detection
-- Real-time attendance systems
-- Deep-learning-based face detection
-
-## ⚠️ Notes
-
-Make sure your computer has a working webcam and that the file:
-
-```text
-haarcascade_frontalface_default.xml
-```
-
-is located in the correct directory.
-
-The current project performs **face detection**, not face recognition. It detects the presence and location of faces but does not identify who the person is.
-
-## 👩‍💻 Author
-
-**Meriem Regoui**
-
-Master's Graduate in Data Science & Artificial Intelligence  
-École Nationale Polytechnique, Algeria
